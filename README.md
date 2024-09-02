@@ -1,4 +1,4 @@
-# Digitální akademie podzim 2023
+# Digitální akademie podzim 2024
 
 ## Bonusové příklady
 
