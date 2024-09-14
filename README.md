@@ -10,3 +10,5 @@
 ## Bonusové příklady
 
 - [První sada příkladů](bonusy-1.ipynb)
+- [Druhá sada příkladů](bonusy-2.ipynb)
+- [Třetí sada příkladů](bonusy-3.ipynb)
