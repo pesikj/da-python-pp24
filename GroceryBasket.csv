@@ -1,0 +1,100 @@
+Canned & Packaged Goods;Frozen Foods;Bakery
+Produce;Meat & Poultry;Dairy & Eggs
+Produce;Frozen Foods;Snacks
+Health & Wellness;Meat & Poultry;Snacks;Dairy & Eggs;Beverages
+Meat & Poultry;Dairy & Eggs;Household Essentials
+Snacks;Household Essentials;Health & Wellness;Frozen Foods;Beverages
+Produce;Household Essentials;Health & Wellness;Beverages;Frozen Foods;Canned & Packaged Goods
+Produce;Snacks;Bakery
+Household Essentials;Produce
+Beverages;Household Essentials
+Beverages;Canned & Packaged Goods;Health & Wellness
+Beverages;Frozen Foods;Canned & Packaged Goods;Produce;Dairy & Eggs;Bakery
+Beverages;Dairy & Eggs
+Bakery;Dairy & Eggs
+Canned & Packaged Goods;Beverages;Dairy & Eggs;Produce
+Bakery;Dairy & Eggs;Snacks
+Household Essentials;Meat & Poultry;Produce;Beverages
+Produce;Beverages;Meat & Poultry;Snacks;Household Essentials;Frozen Foods
+Dairy & Eggs;Frozen Foods;Bakery
+Meat & Poultry;Snacks;Dairy & Eggs;Household Essentials
+Snacks;Canned & Packaged Goods;Dairy & Eggs;Bakery;Health & Wellness
+Beverages;Household Essentials;Meat & Poultry
+Snacks;Beverages;Bakery
+Dairy & Eggs;Snacks;Produce;Canned & Packaged Goods;Beverages;Meat & Poultry
+Health & Wellness;Household Essentials
+Meat & Poultry;Produce
+Snacks;Produce
+Canned & Packaged Goods;Produce;Dairy & Eggs;Household Essentials
+Frozen Foods;Produce;Health & Wellness;Bakery
+Frozen Foods;Dairy & Eggs;Bakery;Canned & Packaged Goods;Beverages;Household Essentials
+Canned & Packaged Goods;Frozen Foods
+Beverages;Health & Wellness;Frozen Foods
+Household Essentials;Beverages;Bakery;Produce;Frozen Foods;Canned & Packaged Goods
+Produce;Beverages;Household Essentials
+Snacks;Frozen Foods;Bakery;Produce;Health & Wellness
+Bakery;Frozen Foods;Beverages;Canned & Packaged Goods;Snacks;Household Essentials
+Household Essentials;Beverages;Meat & Poultry
+Household Essentials;Meat & Poultry;Health & Wellness
+Frozen Foods;Dairy & Eggs;Household Essentials;Health & Wellness
+Frozen Foods;Meat & Poultry;Snacks;Produce
+Snacks;Produce;Health & Wellness;Household Essentials;Frozen Foods;Dairy & Eggs
+Health & Wellness;Canned & Packaged Goods
+Snacks;Bakery
+Beverages;Health & Wellness;Household Essentials;Canned & Packaged Goods;Produce;Meat & Poultry
+Snacks;Household Essentials
+Beverages;Produce;Household Essentials;Dairy & Eggs;Meat & Poultry
+Health & Wellness;Beverages;Produce;Bakery;Frozen Foods;Canned & Packaged Goods
+Health & Wellness;Canned & Packaged Goods;Produce
+Health & Wellness;Frozen Foods;Meat & Poultry;Household Essentials;Dairy & Eggs
+Canned & Packaged Goods;Dairy & Eggs;Bakery;Snacks;Frozen Foods;Household Essentials
+Produce;Dairy & Eggs;Meat & Poultry;Beverages;Household Essentials;Health & Wellness
+Beverages;Bakery;Snacks;Health & Wellness
+Snacks;Health & Wellness;Produce;Household Essentials;Meat & Poultry
+Dairy & Eggs;Household Essentials;Beverages;Produce;Snacks;Bakery
+Canned & Packaged Goods;Health & Wellness;Snacks
+Meat & Poultry;Snacks;Beverages
+Household Essentials;Beverages;Produce;Bakery;Dairy & Eggs;Canned & Packaged Goods
+Produce;Household Essentials;Meat & Poultry;Beverages;Frozen Foods
+Household Essentials;Canned & Packaged Goods;Snacks;Bakery;Dairy & Eggs;Meat & Poultry
+Household Essentials;Produce;Canned & Packaged Goods
+Canned & Packaged Goods;Household Essentials;Bakery;Meat & Poultry;Beverages
+Snacks;Frozen Foods
+Canned & Packaged Goods;Household Essentials;Dairy & Eggs;Beverages;Produce
+Beverages;Frozen Foods
+Frozen Foods;Bakery;Beverages;Household Essentials;Snacks
+Bakery;Dairy & Eggs;Produce;Frozen Foods;Meat & Poultry;Snacks
+Meat & Poultry;Snacks
+Bakery;Produce;Beverages;Snacks
+Canned & Packaged Goods;Household Essentials;Bakery;Snacks
+Bakery;Meat & Poultry;Dairy & Eggs;Produce
+Bakery;Produce;Frozen Foods;Meat & Poultry
+Canned & Packaged Goods;Meat & Poultry;Beverages;Health & Wellness
+Dairy & Eggs;Canned & Packaged Goods;Produce;Bakery;Snacks
+Produce;Frozen Foods
+Beverages;Meat & Poultry;Snacks;Bakery
+Dairy & Eggs;Bakery;Meat & Poultry
+Dairy & Eggs;Meat & Poultry;Snacks;Beverages;Health & Wellness;Bakery
+Dairy & Eggs;Bakery;Beverages
+Meat & Poultry;Dairy & Eggs;Produce
+Household Essentials;Dairy & Eggs;Canned & Packaged Goods
+Health & Wellness;Bakery;Canned & Packaged Goods
+Canned & Packaged Goods;Frozen Foods;Household Essentials;Snacks;Dairy & Eggs
+Frozen Foods;Meat & Poultry;Bakery;Household Essentials;Snacks;Dairy & Eggs
+Household Essentials;Bakery;Health & Wellness;Frozen Foods;Dairy & Eggs;Beverages
+Dairy & Eggs;Snacks;Meat & Poultry;Frozen Foods;Canned & Packaged Goods
+Dairy & Eggs;Household Essentials;Bakery
+Health & Wellness;Frozen Foods;Meat & Poultry;Canned & Packaged Goods;Household Essentials
+Frozen Foods;Produce;Dairy & Eggs;Meat & Poultry
+Meat & Poultry;Dairy & Eggs;Canned & Packaged Goods;Snacks
+Produce;Beverages;Frozen Foods;Dairy & Eggs;Bakery
+Meat & Poultry;Produce;Household Essentials;Beverages;Frozen Foods;Canned & Packaged Goods
+Meat & Poultry;Frozen Foods
+Produce;Canned & Packaged Goods;Dairy & Eggs;Bakery;Meat & Poultry;Beverages
+Beverages;Canned & Packaged Goods;Bakery;Household Essentials;Dairy & Eggs;Frozen Foods
+Snacks;Canned & Packaged Goods
+Meat & Poultry;Bakery;Household Essentials
+Snacks;Canned & Packaged Goods;Produce;Meat & Poultry;Household Essentials;Dairy & Eggs;Bakery
+Canned & Packaged Goods;Produce;Frozen Foods;Dairy & Eggs;Beverages;Meat & Poultry
+Bakery;Canned & Packaged Goods;Health & Wellness;Household Essentials;Snacks
+Snacks;Bakery;Household Essentials;Beverages;Meat & Poultry

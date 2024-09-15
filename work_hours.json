@@ -1,0 +1,830 @@
+[
+    {
+        "date": "2023-08-01",
+        "employee": "Marta Nováková",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-02",
+        "employee": "Marta Nováková",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-03",
+        "employee": "Marta Nováková",
+        "record_type": "work",
+        "worked_on": {
+            "TrendVision": 10
+        }
+    },
+    {
+        "date": "2023-08-04",
+        "employee": "Marta Nováková",
+        "record_type": "work",
+        "worked_on": {
+            "TrendVision": 8
+        }
+    },
+    {
+        "date": "2023-08-07",
+        "employee": "Marta Nováková",
+        "record_type": "work",
+        "worked_on": {
+            "TrendVision": 7
+        }
+    },
+    {
+        "date": "2023-08-08",
+        "employee": "Marta Nováková",
+        "record_type": "work",
+        "worked_on": {
+            "TrendVision": 6,
+            "DataDive": 2
+        }
+    },
+    {
+        "date": "2023-08-09",
+        "employee": "Marta Nováková",
+        "record_type": "work",
+        "worked_on": {
+            "TrendVision": 9,
+            "DataDive": 1
+        }
+    },
+    {
+        "date": "2023-08-10",
+        "employee": "Marta Nováková",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-11",
+        "employee": "Marta Nováková",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-14",
+        "employee": "Marta Nováková",
+        "record_type": "work",
+        "worked_on": {
+            "TrendVision": 10
+        }
+    },
+    {
+        "date": "2023-08-15",
+        "employee": "Marta Nováková",
+        "record_type": "work",
+        "worked_on": {
+            "TrendVision": 6,
+            "DataDive": 1
+        }
+    },
+    {
+        "date": "2023-08-16",
+        "employee": "Marta Nováková",
+        "record_type": "work",
+        "worked_on": {
+            "TrendVision": 8,
+            "DataDive": 1
+        }
+    },
+    {
+        "date": "2023-08-17",
+        "employee": "Marta Nováková",
+        "record_type": "work",
+        "worked_on": {
+            "TrendVision": 6
+        }
+    },
+    {
+        "date": "2023-08-18",
+        "employee": "Marta Nováková",
+        "record_type": "work",
+        "worked_on": {
+            "TrendVision": 6
+        }
+    },
+    {
+        "date": "2023-08-21",
+        "employee": "Marta Nováková",
+        "record_type": "work",
+        "worked_on": {
+            "DataDive": 6
+        }
+    },
+    {
+        "date": "2023-08-22",
+        "employee": "Marta Nováková",
+        "record_type": "work",
+        "worked_on": {
+            "TrendVision": 8
+        }
+    },
+    {
+        "date": "2023-08-23",
+        "employee": "Marta Nováková",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-24",
+        "employee": "Marta Nováková",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-25",
+        "employee": "Marta Nováková",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-28",
+        "employee": "Marta Nováková",
+        "record_type": "work",
+        "worked_on": {
+            "DataDive": 8
+        }
+    },
+    {
+        "date": "2023-08-29",
+        "employee": "Marta Nováková",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-30",
+        "employee": "Marta Nováková",
+        "record_type": "work",
+        "worked_on": {
+            "TrendVision": 8
+        }
+    },
+    {
+        "date": "2023-08-31",
+        "employee": "Marta Nováková",
+        "record_type": "work",
+        "worked_on": {
+            "TrendVision": 6
+        }
+    },
+    {
+        "date": "2023-08-01",
+        "employee": "Michael Rostock-Poplar",
+        "record_type": "work",
+        "worked_on": {
+            "PulseCheck": 9
+        }
+    },
+    {
+        "date": "2023-08-02",
+        "employee": "Michael Rostock-Poplar",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-03",
+        "employee": "Michael Rostock-Poplar",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-04",
+        "employee": "Michael Rostock-Poplar",
+        "record_type": "work",
+        "worked_on": {
+            "Mandala": 8
+        }
+    },
+    {
+        "date": "2023-08-07",
+        "employee": "Michael Rostock-Poplar",
+        "record_type": "work",
+        "worked_on": {
+            "TrendVision": 6
+        }
+    },
+    {
+        "date": "2023-08-08",
+        "employee": "Michael Rostock-Poplar",
+        "record_type": "work",
+        "worked_on": {
+            "Mandala": 7
+        }
+    },
+    {
+        "date": "2023-08-09",
+        "employee": "Michael Rostock-Poplar",
+        "record_type": "work",
+        "worked_on": {
+            "TrendVision": 6
+        }
+    },
+    {
+        "date": "2023-08-10",
+        "employee": "Michael Rostock-Poplar",
+        "record_type": "work",
+        "worked_on": {
+            "PulseCheck": 6
+        }
+    },
+    {
+        "date": "2023-08-11",
+        "employee": "Michael Rostock-Poplar",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-14",
+        "employee": "Michael Rostock-Poplar",
+        "record_type": "care"
+    },
+    {
+        "date": "2023-08-15",
+        "employee": "Michael Rostock-Poplar",
+        "record_type": "work",
+        "worked_on": {
+            "PulseCheck": 7,
+            "Mandala": 1
+        }
+    },
+    {
+        "date": "2023-08-16",
+        "employee": "Michael Rostock-Poplar",
+        "record_type": "work",
+        "worked_on": {
+            "Mandala": 10
+        }
+    },
+    {
+        "date": "2023-08-17",
+        "employee": "Michael Rostock-Poplar",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-18",
+        "employee": "Michael Rostock-Poplar",
+        "record_type": "work",
+        "worked_on": {
+            "TrendVision": 7
+        }
+    },
+    {
+        "date": "2023-08-21",
+        "employee": "Michael Rostock-Poplar",
+        "record_type": "work",
+        "worked_on": {
+            "Mandala": 6
+        }
+    },
+    {
+        "date": "2023-08-22",
+        "employee": "Michael Rostock-Poplar",
+        "record_type": "work",
+        "worked_on": {
+            "TrendVision": 6
+        }
+    },
+    {
+        "date": "2023-08-23",
+        "employee": "Michael Rostock-Poplar",
+        "record_type": "work",
+        "worked_on": {
+            "PulseCheck": 6
+        }
+    },
+    {
+        "date": "2023-08-24",
+        "employee": "Michael Rostock-Poplar",
+        "record_type": "work",
+        "worked_on": {
+            "Mandala": 6
+        }
+    },
+    {
+        "date": "2023-08-25",
+        "employee": "Michael Rostock-Poplar",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-28",
+        "employee": "Michael Rostock-Poplar",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-29",
+        "employee": "Michael Rostock-Poplar",
+        "record_type": "care"
+    },
+    {
+        "date": "2023-08-30",
+        "employee": "Michael Rostock-Poplar",
+        "record_type": "care"
+    },
+    {
+        "date": "2023-08-31",
+        "employee": "Michael Rostock-Poplar",
+        "record_type": "work",
+        "worked_on": {
+            "TrendVision": 10
+        }
+    },
+    {
+        "date": "2023-08-01",
+        "employee": "Ondřej Bartoš",
+        "record_type": "work",
+        "worked_on": {
+            "FinanceFlare": 9
+        }
+    },
+    {
+        "date": "2023-08-02",
+        "employee": "Ondřej Bartoš",
+        "record_type": "work",
+        "worked_on": {
+            "FinanceFlare": 10
+        }
+    },
+    {
+        "date": "2023-08-03",
+        "employee": "Ondřej Bartoš",
+        "record_type": "work",
+        "worked_on": {
+            "FinanceFlare": 9
+        }
+    },
+    {
+        "date": "2023-08-04",
+        "employee": "Ondřej Bartoš",
+        "record_type": "work",
+        "worked_on": {
+            "FinanceFlare": 7
+        }
+    },
+    {
+        "date": "2023-08-07",
+        "employee": "Ondřej Bartoš",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-08",
+        "employee": "Ondřej Bartoš",
+        "record_type": "care"
+    },
+    {
+        "date": "2023-08-09",
+        "employee": "Ondřej Bartoš",
+        "record_type": "work",
+        "worked_on": {
+            "FinanceFlare": 7
+        }
+    },
+    {
+        "date": "2023-08-10",
+        "employee": "Ondřej Bartoš",
+        "record_type": "work",
+        "worked_on": {
+            "FinanceFlare": 10
+        }
+    },
+    {
+        "date": "2023-08-11",
+        "employee": "Ondřej Bartoš",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-14",
+        "employee": "Ondřej Bartoš",
+        "record_type": "work",
+        "worked_on": {
+            "FinanceFlare": 8
+        }
+    },
+    {
+        "date": "2023-08-15",
+        "employee": "Ondřej Bartoš",
+        "record_type": "work",
+        "worked_on": {
+            "FinanceFlare": 7
+        }
+    },
+    {
+        "date": "2023-08-16",
+        "employee": "Ondřej Bartoš",
+        "record_type": "work",
+        "worked_on": {
+            "FinanceFlare": 10
+        }
+    },
+    {
+        "date": "2023-08-17",
+        "employee": "Ondřej Bartoš",
+        "record_type": "work",
+        "worked_on": {
+            "FinanceFlare": 8
+        }
+    },
+    {
+        "date": "2023-08-18",
+        "employee": "Ondřej Bartoš",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-21",
+        "employee": "Ondřej Bartoš",
+        "record_type": "work",
+        "worked_on": {
+            "FinanceFlare": 7
+        }
+    },
+    {
+        "date": "2023-08-22",
+        "employee": "Ondřej Bartoš",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-23",
+        "employee": "Ondřej Bartoš",
+        "record_type": "work",
+        "worked_on": {
+            "FinanceFlare": 6
+        }
+    },
+    {
+        "date": "2023-08-24",
+        "employee": "Ondřej Bartoš",
+        "record_type": "work",
+        "worked_on": {
+            "FinanceFlare": 9
+        }
+    },
+    {
+        "date": "2023-08-25",
+        "employee": "Ondřej Bartoš",
+        "record_type": "work",
+        "worked_on": {
+            "FinanceFlare": 8
+        }
+    },
+    {
+        "date": "2023-08-28",
+        "employee": "Ondřej Bartoš",
+        "record_type": "work",
+        "worked_on": {
+            "FinanceFlare": 8
+        }
+    },
+    {
+        "date": "2023-08-29",
+        "employee": "Ondřej Bartoš",
+        "record_type": "work",
+        "worked_on": {
+            "FinanceFlare": 6
+        }
+    },
+    {
+        "date": "2023-08-30",
+        "employee": "Ondřej Bartoš",
+        "record_type": "work",
+        "worked_on": {
+            "FinanceFlare": 8
+        }
+    },
+    {
+        "date": "2023-08-31",
+        "employee": "Ondřej Bartoš",
+        "record_type": "work",
+        "worked_on": {
+            "FinanceFlare": 7
+        }
+    },
+    {
+        "date": "2023-08-01",
+        "employee": "Daniela Bérová",
+        "record_type": "work",
+        "worked_on": {
+            "DataDive": 6
+        }
+    },
+    {
+        "date": "2023-08-02",
+        "employee": "Daniela Bérová",
+        "record_type": "work",
+        "worked_on": {
+            "DataDive": 7
+        }
+    },
+    {
+        "date": "2023-08-03",
+        "employee": "Daniela Bérová",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-04",
+        "employee": "Daniela Bérová",
+        "record_type": "work",
+        "worked_on": {
+            "DataDive": 7
+        }
+    },
+    {
+        "date": "2023-08-07",
+        "employee": "Daniela Bérová",
+        "record_type": "work",
+        "worked_on": {
+            "PulseCheck": 6
+        }
+    },
+    {
+        "date": "2023-08-08",
+        "employee": "Daniela Bérová",
+        "record_type": "work",
+        "worked_on": {
+            "PulseCheck": 7,
+            "DataDive": 2
+        }
+    },
+    {
+        "date": "2023-08-09",
+        "employee": "Daniela Bérová",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-10",
+        "employee": "Daniela Bérová",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-11",
+        "employee": "Daniela Bérová",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-14",
+        "employee": "Daniela Bérová",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-15",
+        "employee": "Daniela Bérová",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-16",
+        "employee": "Daniela Bérová",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-17",
+        "employee": "Daniela Bérová",
+        "record_type": "work",
+        "worked_on": {
+            "DataDive": 7
+        }
+    },
+    {
+        "date": "2023-08-18",
+        "employee": "Daniela Bérová",
+        "record_type": "work",
+        "worked_on": {
+            "PulseCheck": 6,
+            "DataDive": 4
+        }
+    },
+    {
+        "date": "2023-08-21",
+        "employee": "Daniela Bérová",
+        "record_type": "work",
+        "worked_on": {
+            "DataDive": 7
+        }
+    },
+    {
+        "date": "2023-08-22",
+        "employee": "Daniela Bérová",
+        "record_type": "work",
+        "worked_on": {
+            "PulseCheck": 6,
+            "DataDive": 2
+        }
+    },
+    {
+        "date": "2023-08-23",
+        "employee": "Daniela Bérová",
+        "record_type": "work",
+        "worked_on": {
+            "PulseCheck": 6
+        }
+    },
+    {
+        "date": "2023-08-24",
+        "employee": "Daniela Bérová",
+        "record_type": "care"
+    },
+    {
+        "date": "2023-08-25",
+        "employee": "Daniela Bérová",
+        "record_type": "work",
+        "worked_on": {
+            "DataDive": 6,
+            "PulseCheck": 3
+        }
+    },
+    {
+        "date": "2023-08-28",
+        "employee": "Daniela Bérová",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-29",
+        "employee": "Daniela Bérová",
+        "record_type": "work",
+        "worked_on": {
+            "DataDive": 7
+        }
+    },
+    {
+        "date": "2023-08-30",
+        "employee": "Daniela Bérová",
+        "record_type": "work",
+        "worked_on": {
+            "DataDive": 9
+        }
+    },
+    {
+        "date": "2023-08-31",
+        "employee": "Daniela Bérová",
+        "record_type": "work",
+        "worked_on": {
+            "DataDive": 6
+        }
+    },
+    {
+        "date": "2023-08-01",
+        "employee": "Ivan Pilný",
+        "record_type": "work",
+        "worked_on": {
+            "PulseCheck": 7
+        }
+    },
+    {
+        "date": "2023-08-02",
+        "employee": "Ivan Pilný",
+        "record_type": "work",
+        "worked_on": {
+            "Mandala": 9
+        }
+    },
+    {
+        "date": "2023-08-03",
+        "employee": "Ivan Pilný",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-04",
+        "employee": "Ivan Pilný",
+        "record_type": "work",
+        "worked_on": {
+            "Mandala": 9
+        }
+    },
+    {
+        "date": "2023-08-07",
+        "employee": "Ivan Pilný",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-08",
+        "employee": "Ivan Pilný",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-09",
+        "employee": "Ivan Pilný",
+        "record_type": "holiday"
+    },
+    {
+        "date": "2023-08-10",
+        "employee": "Ivan Pilný",
+        "record_type": "work",
+        "worked_on": {
+            "Mandala": 6
+        }
+    },
+    {
+        "date": "2023-08-11",
+        "employee": "Ivan Pilný",
+        "record_type": "work",
+        "worked_on": {
+            "PulseCheck": 6
+        }
+    },
+    {
+        "date": "2023-08-14",
+        "employee": "Ivan Pilný",
+        "record_type": "work",
+        "worked_on": {
+            "Mandala": 7,
+            "PulseCheck": 1
+        }
+    },
+    {
+        "date": "2023-08-15",
+        "employee": "Ivan Pilný",
+        "record_type": "work",
+        "worked_on": {
+            "Mandala": 6
+        }
+    },
+    {
+        "date": "2023-08-16",
+        "employee": "Ivan Pilný",
+        "record_type": "work",
+        "worked_on": {
+            "Mandala": 7,
+            "PulseCheck": 3
+        }
+    },
+    {
+        "date": "2023-08-17",
+        "employee": "Ivan Pilný",
+        "record_type": "work",
+        "worked_on": {
+            "Mandala": 7,
+            "PulseCheck": 1
+        }
+    },
+    {
+        "date": "2023-08-18",
+        "employee": "Ivan Pilný",
+        "record_type": "care"
+    },
+    {
+        "date": "2023-08-21",
+        "employee": "Ivan Pilný",
+        "record_type": "work",
+        "worked_on": {
+            "PulseCheck": 6
+        }
+    },
+    {
+        "date": "2023-08-22",
+        "employee": "Ivan Pilný",
+        "record_type": "work",
+        "worked_on": {
+            "PulseCheck": 6
+        }
+    },
+    {
+        "date": "2023-08-23",
+        "employee": "Ivan Pilný",
+        "record_type": "work",
+        "worked_on": {
+            "Mandala": 8
+        }
+    },
+    {
+        "date": "2023-08-24",
+        "employee": "Ivan Pilný",
+        "record_type": "work",
+        "worked_on": {
+            "Mandala": 8
+        }
+    },
+    {
+        "date": "2023-08-25",
+        "employee": "Ivan Pilný",
+        "record_type": "work",
+        "worked_on": {
+            "Mandala": 6,
+            "PulseCheck": 4
+        }
+    },
+    {
+        "date": "2023-08-28",
+        "employee": "Ivan Pilný",
+        "record_type": "work",
+        "worked_on": {
+            "Mandala": 6,
+            "PulseCheck": 1
+        }
+    },
+    {
+        "date": "2023-08-29",
+        "employee": "Ivan Pilný",
+        "record_type": "work",
+        "worked_on": {
+            "PulseCheck": 7
+        }
+    },
+    {
+        "date": "2023-08-30",
+        "employee": "Ivan Pilný",
+        "record_type": "work",
+        "worked_on": {
+            "PulseCheck": 6,
+            "Mandala": 1
+        }
+    },
+    {
+        "date": "2023-08-31",
+        "employee": "Ivan Pilný",
+        "record_type": "work",
+        "worked_on": {
+            "PulseCheck": 6,
+            "Mandala": 1
+        }
+    }
+]
