@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-09-19T07:52:40.206Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="2FIFjIjSP2_pn7xxdLp1" version="24.6.4" type="device" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-09-19T20:41:05.081Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="9DbCzalwqKrlCAWoaINm" version="24.6.4" type="device" pages="11">
   <diagram name="prubeh_1" id="-roQiQdPP6-fYGPLzRvr">
     <mxGraphModel dx="989" dy="1627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="prubeh_1_slovnik" id="fNo3HgNfaMsLxnDLqxNJ">
-    <mxGraphModel dx="1876" dy="1673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1723" dy="1495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="oVl9CKtqKpVb9brwrDmu-0" />
         <mxCell id="oVl9CKtqKpVb9brwrDmu-1" parent="oVl9CKtqKpVb9brwrDmu-0" />
@@ -118,13 +118,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PDNLcFgpIac6Zc3Q2XHX-0" value="&quot;Praha&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="oVl9CKtqKpVb9brwrDmu-1">
+        <mxCell id="PDNLcFgpIac6Zc3Q2XHX-0" value="4200" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="oVl9CKtqKpVb9brwrDmu-1">
           <mxGeometry x="400" y="30" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDNLcFgpIac6Zc3Q2XHX-1" value="radek[&quot;prodej_2021&quot;]" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="oVl9CKtqKpVb9brwrDmu-1">
           <mxGeometry x="400" y="70" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PDNLcFgpIac6Zc3Q2XHX-2" value="&quot;Praha&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="oVl9CKtqKpVb9brwrDmu-1">
+        <mxCell id="PDNLcFgpIac6Zc3Q2XHX-2" value="4900" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="oVl9CKtqKpVb9brwrDmu-1">
           <mxGeometry x="530" y="30" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDNLcFgpIac6Zc3Q2XHX-3" value="radek[&quot;prodej_2022&quot;]" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="oVl9CKtqKpVb9brwrDmu-1">
@@ -603,7 +603,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tIx792-vjSc53RiZb4E_" name="Slicing">
-    <mxGraphModel dx="1876" dy="1673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2284" dy="1784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -807,6 +807,146 @@
         </mxCell>
         <mxCell id="ApUXBU5b_bqRtsr8m6r2-83" value="6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-320" y="-160" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZoFWYo3vjuXP48F_MA4V" name="Slovnik_items">
+    <mxGraphModel dx="1876" dy="1673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-1" value="&lt;span class=&quot;hljs-string&quot;&gt;&quot;jablko&quot;&lt;/span&gt;: &lt;span class=&quot;hljs-string&quot;&gt;&quot;apple&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="-1040" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-7" value="jablko" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="-1070" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-10" value="key" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="-1040" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-11" value="apple" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="-1010" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-12" value="value" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="-980" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-16" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;align=center;" edge="1" parent="1" source="RJ8WvM95mHsT5T2i1Y_v-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-370" y="-800" as="sourcePoint" />
+            <mxPoint x="-310" y="-1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-19" value="Ukládání do&lt;br&gt;proměnných" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RJ8WvM95mHsT5T2i1Y_v-16">
+          <mxGeometry x="-0.4" relative="1" as="geometry">
+            <mxPoint x="41" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RJ8WvM95mHsT5T2i1Y_v-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-310" y="-1020" as="sourcePoint" />
+            <mxPoint x="-320" y="-850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RJ8WvM95mHsT5T2i1Y_v-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-310" y="-1020" as="sourcePoint" />
+            <mxPoint x="-320" y="-850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-20" value="&quot;pes&quot;: &quot;dog&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="-1000" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-21" value="&quot;kočka&quot;: &quot;cat&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="-960" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-22" value="&lt;span class=&quot;hljs-string&quot;&gt;&quot;jablko&quot;&lt;/span&gt;: &lt;span class=&quot;hljs-string&quot;&gt;&quot;apple&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="-880" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-23" value="pes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="-870" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-24" value="key" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="-840" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-25" value="dog" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="-810" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-26" value="value" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="-780" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-27" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;align=center;" edge="1" parent="1" source="RJ8WvM95mHsT5T2i1Y_v-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-370" y="-640" as="sourcePoint" />
+            <mxPoint x="-310" y="-820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-28" value="Ukládání do&lt;br&gt;proměnných" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RJ8WvM95mHsT5T2i1Y_v-27">
+          <mxGeometry x="-0.4" relative="1" as="geometry">
+            <mxPoint x="41" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RJ8WvM95mHsT5T2i1Y_v-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-310" y="-820" as="sourcePoint" />
+            <mxPoint x="-320" y="-650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RJ8WvM95mHsT5T2i1Y_v-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-310" y="-820" as="sourcePoint" />
+            <mxPoint x="-320" y="-650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-31" value="&quot;pes&quot;: &quot;dog&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="-840" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-32" value="&quot;kočka&quot;: &quot;cat&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="-800" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-33" value="&lt;span class=&quot;hljs-string&quot;&gt;&quot;jablko&quot;&lt;/span&gt;: &lt;span class=&quot;hljs-string&quot;&gt;&quot;apple&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="-720" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-34" value="kočka" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="-670" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-35" value="key" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="-640" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-36" value="cat" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="-610" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-37" value="value" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="-580" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-38" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;align=center;" edge="1" parent="1" source="RJ8WvM95mHsT5T2i1Y_v-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-370" y="-480" as="sourcePoint" />
+            <mxPoint x="-310" y="-620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-39" value="Ukládání do&lt;br&gt;proměnných" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RJ8WvM95mHsT5T2i1Y_v-38">
+          <mxGeometry x="-0.4" relative="1" as="geometry">
+            <mxPoint x="41" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RJ8WvM95mHsT5T2i1Y_v-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-310" y="-620" as="sourcePoint" />
+            <mxPoint x="-320" y="-450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RJ8WvM95mHsT5T2i1Y_v-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-310" y="-620" as="sourcePoint" />
+            <mxPoint x="-320" y="-450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-42" value="&quot;pes&quot;: &quot;dog&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="-680" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RJ8WvM95mHsT5T2i1Y_v-43" value="&quot;kočka&quot;: &quot;cat&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="-640" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
