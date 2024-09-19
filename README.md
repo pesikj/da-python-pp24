@@ -1,6 +1,7 @@
 # Digitální akademie podzim 2024
 
 * [Funkce](funkce.ipynb)
+* [Pracovní skupinky  - cyklus](cyklus.ipynb)
 
 ## Řešení příkladů
 
