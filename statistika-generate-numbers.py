@@ -1,29 +1,45 @@
 import numpy as np
-from scipy import stats
 import pandas as pd
+from scipy import stats
 
-# Set the random seed for reproducibility
-np.random.seed(42)
+# Set the desired parameters
+mean = 50
+std_dev = 5
+size1 = 600
+size2 = 600
 
-# Generate two lists of numbers, each with 20 values
-list_1 = np.random.normal(loc=55, scale=5, size=20)  # List 1 with a mean of 50
-list_2 = np.random.normal(loc=50, scale=5, size=20)  # List 2 with a slightly higher mean of 55
+# Generate the first set of numbers
+data1 = np.random.normal(loc=mean, scale=std_dev, size=size1)
 
-# Perform a one-sided t-test: testing if the mean of list_2 is greater than the mean of list_1
-t_stat, p_value = stats.ttest_ind(list_1, list_2, alternative='greater')
+# Initial guess for the mean of the second set
+mean_adjust = mean + 0.1
 
-# Adjust the means until the p-value is approximately 0.01
-while p_value > 0.011 or p_value < 0.009:
-    list_2 = np.random.normal(loc=np.mean(list_1) - np.random.uniform(3, 5), scale=5, size=20)
-    t_stat, p_value = stats.ttest_ind(list_1, list_2, alternative='greater')
+# Function to adjust the second set to achieve the desired p-value
+def generate_data_with_p_value(mean1, mean2, std, size1, size2, target_p):
+    while True:
+        # Generate the second set of numbers
+        data2 = np.random.normal(loc=mean2, scale=std, size=size2)
+        # Perform two-sided t-test
+        t_stat, p_value = stats.ttest_ind(data1, data2, alternative='two-sided')
+        print(p_value)
+        if np.abs(p_value - target_p) < 0.001:  # Allowable tolerance for p-value
+            return data1, data2, p_value
+        # Adjust the mean for the next iteration
+        if p_value < target_p:
+            mean2 -= 0.01  # Small increment to move towards the desired p-value
+        else:
+            mean2 += 0.02
 
-# Print the lists and p-value
-print("List 1:", list_1)
-print("List 2:", list_2)
-print(f"One-sided p-value: {p_value:.4f}")
+# Generate data until the desired p-value is found
+data1, data2, final_p_value = generate_data_with_p_value(mean, mean_adjust, std_dev, size1, size2, target_p=0.03)
 
-# Create a DataFrame to hold the data
-data = pd.DataFrame({'Pripravek': list_1, 'Placebo': list_2})
+# Create the dataframe with the two groups of numbers
+df = pd.DataFrame({'Skola 1': np.concatenate([data1, [None]*size2]), 'Skola 2': np.concatenate([[None]*size1, data2])})
 
-# Save the DataFrame to a CSV file (without index)
-data.to_csv('student_results.csv', index=False)
+
+# Save and display the dataframe
+
+# Display the final p-value achieved
+print(f"Final p-value: {final_p_value:.4f}")
+
+df.to_csv("statistika-1-assets/skoly.csv", index=False)
