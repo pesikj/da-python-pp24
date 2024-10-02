@@ -2,6 +2,7 @@
 
 * [Funkce](funkce.ipynb)
 * [Pracovní skupinky  - cyklus](cyklus.ipynb)
+* [Úvod do statistiky 1](statistika-1.ipynb)
 
 ## Řešení příkladů
 
