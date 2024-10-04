@@ -1,0 +1,30 @@
+{
+    "products": [
+      {
+        "name": "DataFrame",
+        "profit_per_unit": 5,
+        "category": "Data Manipulation"
+      },
+      {
+        "name": "DataWarehouse",
+        "profit_per_unit": 1,
+        "category": "Data Storage"
+      },
+      {
+        "name": "DataLake",
+        "profit_per_unit": 5,
+        "category": "Data Storage"
+      },
+      {
+        "name": "DataPipeline",
+        "profit_per_unit": 3,
+        "category": "Data Integration"
+      },
+      {
+        "name": "DataModel",
+        "profit_per_unit": 15,
+        "category": "Data Analysis"
+      }
+    ]
+  }
+  
