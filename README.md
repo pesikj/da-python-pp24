@@ -4,6 +4,7 @@
 * [Pracovní skupinky  - cyklus](cyklus.ipynb)
 * [Úvod do statistiky 1](statistika-1.ipynb)
 * [Pracovní skupinka - soubory](tabulky_soubor.ipynb)
+* [Úvod do statistiky 2](statistika-2.ipynb)
 
 ## Řešení příkladů
 
